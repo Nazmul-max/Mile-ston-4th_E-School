@@ -1,0 +1,84 @@
+.logo{
+    width: 150px;
+}
+.bg-color{
+    background-color: #F0FFF0;
+    border-radius: 5px;
+}
+.navbar-nav li{
+    padding: 10px;
+}
+#main-nav{
+    background-color:#F0FFF0;
+    opacity: 90%;
+}
+.btn{ 
+    border-radius: 42px;
+    border: none;
+}
+.nav-item a{
+    color: #000;
+}
+p{
+    line-height: 2;
+}
+span{
+    color:#21B573;
+}
+
+.row h1{
+    font-weight: bold;
+}
+.bg-edit .card{
+    align-items: center;
+    border: none;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.bg-edit2 .card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.card:hover{
+    transition: all 0.2s ease;
+    box-shadow: 10px 10px 30px lightgrey;
+}
+.bg-edit .card img{
+    width: 70px;
+    margin-top: 30px;
+}
+
+.bg-edit2 .card-deck .card .card-img-top{
+    padding: 10px;
+}
+.row .col-md-3 img{
+    width: 85%;
+}
+.row .col-md-4{
+    padding-top: 50px;
+}
+.row .col-md-4 ul li{
+    list-style-type: none;
+}
+.row .col-md-4 ul li a{
+    color:white;
+}
+.font-style{
+    font-weight: bold;
+}
+.row .col-md-3 img{
+    border-radius: 50%;
+}
+.card-footer{
+    border: none;
+    padding:  0;
+    background-color: #F8FFFB;
+    width: 99%;
+    margin: 0 auto;
+}
+.card-footer img{
+    width: 30px;
+    padding-left: -5px;
+}
+.col-xl-8, .col-xl-4{
+    padding: 0;
+}
